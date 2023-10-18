@@ -1,5 +1,28 @@
 p{
-    color: rgb(2, 134, 90);
-    size: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    text-align: center;
 }
 /* testing to see if link is successful */
+
+body{
+    background-color: gray
+    ;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 250px;
+}
+.buttonSize{
+    height: 100px;
+    width: 500px;
+}
