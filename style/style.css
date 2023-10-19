@@ -26,3 +26,18 @@ h1{
     height: 100px;
     width: 500px;
 }
+
+body.page1{
+    background-image: url(../assets/AlarmClockUnsplash.jpg);
+    background-size: cover;
+}
+
+body.page2{
+    background-image: url(../assets/SunnyDayUnsplash.jpg);
+    background-size: cover;
+}
+
+body.page5{
+    background-image: url(../assets/MotorcycleUnsplash.jpg);
+    background-size: cover;
+}
