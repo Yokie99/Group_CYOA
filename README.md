@@ -1,0 +1,2 @@
+Peer Reviewer: Aidan Younathan
+Peer Review: I think you guys did a good job with this, I believe that some text is hard to see with some of the background images and could use a color change, I think its cool to see the background change with the story and I believe this was solid for a first website. Then the pages codes could use some formatting but otherwie the site works and the game runs and works well.
