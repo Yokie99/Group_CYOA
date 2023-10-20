@@ -1,10 +1,17 @@
 p{
-    color: rgb(255, 255, 255);
+    color: rgb(24, 6, 6);
     font-size: 35px;
+    background-color: aliceblue;
+    padding: 15px;
+    display: inline;
     text-align: center;
 }
-/* testing to see if link is successful */
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 body{
     background-color: gray
     ;
