@@ -64,3 +64,16 @@ body.page6{
     background-image: url(../assets/bob\ ross.jpeg);
     background-size: cover;
 }
+body.page7{
+    background-image: url(../assets/rainyday-painting.jpg);
+    background-size:cover;
+}
+body.page9{
+    background-image: url(../assets/songwritting.jpg) ;
+    background-size:cover;
+}
+body.page8{
+    background-image: url(../assets/oak.jpg) ;
+    background-size:cover;
+    background-position: center;
+}
