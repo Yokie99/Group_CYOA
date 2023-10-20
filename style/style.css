@@ -41,3 +41,19 @@ body.page5{
     background-image: url(../assets/MotorcycleUnsplash.jpg);
     background-size: cover;
 }
+
+body.page4{
+    background-image: url(../assets/mall.jpg);
+    background-size: cover;
+}
+.page4text{
+    color: black;
+}
+body.page3{
+    background-image: url(../assets/rainyday-painting.jpg);
+    background-size: cover;
+}
+body.page6{
+    background-image: url(../assets/bob\ ross.jpeg);
+    background-size: cover;
+}
